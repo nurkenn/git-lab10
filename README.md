@@ -11,3 +11,5 @@ Wednesday 10 AM
 Kenneth Nursalin
 nurken1993@yahoo.com
 Wednesday 10 AM
+
+![alt tag] (http://octodex.github.com/dojocat)
